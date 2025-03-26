@@ -1,0 +1,19 @@
+  1.<maven.compiler.source>21</maven.compiler.source>
+    <maven.compiler.target>21</maven.compiler.target>  
+    
+  2.System.out.println("==========\nx="+ resultSet.getInt("x")+"\n==========\ny="+ resultSet.getString("y")+"\n==========\nz="+  resultSet.getString("z")+ "\n==========\n");
+  
+  3.<!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-context</artifactId>
+      <version>6.2.1</version>
+    </dependency>
+    
+  4.<dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-context</artifactId>
+      <version>3.1.1.RELEASE</version>
+    </dependency>
+
+ 
